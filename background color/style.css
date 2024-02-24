@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(126, 192, 213);
+    display: flex; 
+    align-items: center; 
+    justify-content:center;
+}
+button{
+    padding: 40px;
+    border: 2px solid;
+    border-radius: 10px;
+    background: var(--color);
+    
+
+}
+#grey{
+    --color:grey;
+}
+#yellow{
+    --color:yellow;
+
+}
+#green{
+    --color:green;
+}
+#white{
+    --color:white;
+}
