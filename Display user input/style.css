@@ -1,0 +1,41 @@
+body{
+   
+    display: flex; 
+    align-items: center; 
+    justify-content:center;
+}
+
+input{
+    padding: 5px;
+    font-size: 15px;
+    color: rgb(3, 6, 64);
+    border: 2px solid;
+    border-radius: 5px;
+
+}
+
+label{
+    padding: 20px;
+    font-size: 20px;
+
+}
+
+button{
+    padding: 5px;
+    font-size: 15px;
+    background-color: rgb(240, 234, 225);
+    color: rgb(1, 13, 13); 
+    border: 2px solid ;
+    border-radius: 5px;
+    
+
+
+}
+
+h1 {
+    padding: 10px;
+    font-size: 20px;
+    color: rgb(4, 7, 71);
+    margin-top: 10px;
+
+}
